@@ -7,7 +7,8 @@ This respository contains the main codebase for our paper: *Analysis of deep lea
 
  * [1. Getting Started](#getting-started)
  * [2. Directory Structure](#directory-structure)
- * [3. Quick Guide](#quick-guide)
+ * [3. Citing](#citing)
+ * [4. Contact](#contact)
  <!-- * [4. Reproduce Results](#reproduce-results) -->
 
 
